@@ -47,14 +47,13 @@ I'm a **Computer Engineering student** passionate about software development, ar
 - 🚀 Always learning, building, and experimenting
 - ☕ Powered by curiosity and coffee
 
-> *"The goal isn't to know everything.  
-> It's to keep becoming better at learning anything."*
 
 </td>
 
 <td width="35%" align="center">
 
-<img src="https://i.imgur.com/8Km9tLL.png" width="260" alt="Placeholder illustration"/>
+<img src="<img width="620" height="627" alt="ranapixel" src="https://github.com/user-attachments/assets/4d139cab-7304-4b18-9398-479df236f823" />
+" width="260" alt="Placeholder illustration"/>
 
 <br><br>
 
