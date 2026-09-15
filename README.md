@@ -180,10 +180,6 @@ jobs:
   <img src="https://img.shields.io/badge/Instagram-Follow-F8BBD0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<br><br>
-
-
-
 <a href="mailto:akyolranaelif@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
