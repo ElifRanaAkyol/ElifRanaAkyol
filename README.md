@@ -2,10 +2,10 @@
 
 <!-- 🌸 HERO BANNER -->
 
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/imrana.mp4">
-   <img alt="Logo for Your Banner Title" src="art/imrana.mp4">
-</picture>
+<video width="100%" autoplay loop muted playsinline>
+  <source src="art/imrana.mp4" type="video/mp4">
+  Tarayıcınız video etiketini desteklemiyor.
+</video>
 <br>
 
 # Hey there, I'm Rana 👋🏻
