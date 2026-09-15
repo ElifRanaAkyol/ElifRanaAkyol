@@ -5,9 +5,11 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&text=Rana&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=220&section=header&text=Rana&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&text=Rana&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18" alt="Rana GitHub banner"/>
+  <br>
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/githubbackround.png">
+   <img alt="Logo for Your Banner Title" src="art/header-light.png">
 </picture>
-<img src=" width="736" height="414" alt="githubbackround" src="https://github.com/user-attachments/assets/f78b7946-57c6-4b7a-a5ba-e52b84859197" 
-" alt="Typing SVG"/>
 <br>
 
 # Hey there, I'm Rana 👋🏻
