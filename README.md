@@ -4,7 +4,7 @@
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="art/githubbackround.jpg">
-   <img alt="Logo for Your Banner Title" src="art/header-light.png">
+   <img alt="Logo for Your Banner Title" src="art/githubbackround.jpg">
 </picture>
 <br>
 
