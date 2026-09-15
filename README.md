@@ -1,16 +1,203 @@
-## Hi there 👋
+<div align="center">
 
+<!-- 🌸 HERO BANNER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&text=Rana&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=220&section=header&text=Rana&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&text=Rana&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18" alt="Rana GitHub banner"/>
+</picture>
+
+<br>
+
+# Hey there, I'm Rana 👋🏻
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Backend+%26+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Things+That+Matter+%E2%9C%A8" alt="Typing SVG"/>
+
+<br>
+
+<a href="https://github.com/ElifRanaAkyol">
+  <img src="https://img.shields.io/github/followers/ElifRanaAkyol?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" alt="GitHub Followers"/>
+</a>
+<a href="https://github.com/ElifRanaAkyol?tab=repositories">
+  <img src="https://img.shields.io/github/stars/ElifRanaAkyol?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" alt="GitHub Stars"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=ElifRanaAkyol&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
+
+</div>
+
+---
+
+## 🌸 About Me
+
+<table align="center">
+<tr>
+<td width="65%" valign="middle">
+
+### Hi, I'm Rana! 💗
+
+I'm a **Computer Engineering student** passionate about software development, artificial intelligence, and building meaningful digital products.
+
+- 🎓 Studying **Computer Engineering**
+- 💻 Interested in **Backend Development & Software Architecture**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🌱 Currently improving my **TypeScript, Node.js & system design** skills
+- 🧠 I enjoy understanding how systems work under the hood
+- 🚀 Always learning, building, and experimenting
+- ☕ Powered by curiosity and coffee
+
+> *"The goal isn't to know everything.  
+> It's to keep becoming better at learning anything."*
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://i.imgur.com/8Km9tLL.png" width="260" alt="Placeholder illustration"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-EF93C4?style=flat-square" alt="Focus"/>
+<br>
+<img src="https://img.shields.io/badge/Currently-Learning-FF69B4?style=flat-square" alt="Currently Learning"/>
+<br>
+<img src="https://img.shields.io/badge/Mindset-Always%20Learning-F8BBD0?style=flat-square" alt="Mindset"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c&theme=light" alt="Programming Languages"/>
+
+<br><br>
+
+### ⚙️ Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,express,nestjs,react&theme=light" alt="Backend and Frameworks"/>
+
+<br><br>
+
+### 🗄️ Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,docker,postman&theme=light" alt="Databases and Tools"/>
+
+<br><br>
+
+### ☁️ Cloud & Development
+
+<img src="https://skillicons.dev/icons?i=linux,vscode,visualstudio,figma,vercel&theme=light" alt="Development Tools"/>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ElifRanaAkyol&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000" alt="GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElifRanaAkyol&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=777777&bg_color=00000000" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ElifRanaAkyol&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=999999" alt="GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElifRanaAkyol&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- GitHub Action: generate contribution snake -->
 <!--
-**ElifRanaAkyol/ElifRanaAkyol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Create .github/workflows/snake.yml with:
 
-Here are some ideas to get you started:
+name: Generate Snake
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ElifRanaAkyol
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_DIR: dist
 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElifRanaAkyol/ElifRanaAkyol/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElifRanaAkyol/ElifRanaAkyol/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/ElifRanaAkyol/ElifRanaAkyol/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</picture>
+
+</div>
+
+---
+
+## 🌷 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/elifranaakyol">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+
+<a href="https://instagram.com/elifraniss">
+  <img src="https://img.shields.io/badge/Instagram-Follow-F8BBD0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br><br>
+
+
+
+<a href="mailto:akyolranaelif@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+### 💌 Let's build something meaningful together.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:EF93C4&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="Footer"/>
+
+</div>
