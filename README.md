@@ -52,8 +52,8 @@ I'm a **Computer Engineering student** passionate about software development, ar
 
 <td width="35%" align="center">
 
-<img src="<img width="620" height="627" alt="ranapixel" src="https://github.com/user-attachments/assets/4d139cab-7304-4b18-9398-479df236f823" />
-" width="260" alt="Placeholder illustration"/>
+<img src="https://github.com/user-attachments/assets/4d139cab-7304-4b18-9398-479df236f823"
+width="260" alt="Placeholder illustration"/>
 
 <br><br>
 
