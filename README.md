@@ -124,8 +124,7 @@ I'm a **Computer Engineering student** passionate about software development, ar
 
 <div align="center">
 
-<!-- GitHub Action: generate contribution snake -->
-<!--
+
 Create .github/workflows/snake.yml with:
 
 name: Generate Snake
@@ -155,7 +154,6 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GITHUB_TOKEN }}
           BUILD_DIR: dist
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElifRanaAkyol/ElifRanaAkyol/output/github-contribution-grid-snake-dark.svg">
