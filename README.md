@@ -52,10 +52,6 @@ I'm a **Computer Engineering student** passionate about software development, ar
 
 <td width="35%" align="center">
 
-<img src="https://github.com/user-attachments/assets/4d139cab-7304-4b18-9398-479df236f823"
-width="260" alt="Placeholder illustration"/>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Focus-Software%20Engineering-EF93C4?style=flat-square" alt="Focus"/>
 <br>
