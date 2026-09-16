@@ -33,7 +33,7 @@
 
 ---
 
-## 🌸 About Me
+## <img src="art/stargithub.png" /> About Me
 
 <table align="center">
 <tr>
