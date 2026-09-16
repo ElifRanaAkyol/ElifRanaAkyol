@@ -48,7 +48,9 @@ I'm a **Computer Engineering student** passionate about software development, ar
 </td>
 
 <td width="35%" align="center">
+<img src="art/lilranaplayingcomputer.gif" width="260" alt="Placeholder illustration"/>
 
+<br><br>
 <img src="https://img.shields.io/badge/Focus-Software%20Engineering-EF93C4?style=flat-square" alt="Focus"/>
 <br>
 <img src="https://img.shields.io/badge/Currently-Learning-FF69B4?style=flat-square" alt="Currently Learning"/>
