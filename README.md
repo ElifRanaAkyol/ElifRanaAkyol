@@ -59,7 +59,7 @@ I'm a **Computer Engineering student** passionate about software development, ar
 
 ## 🛠️ Tech Stack
 
-<div style align="center">
+<div align="center" style="width: 100%;">
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,nodejs,dotnet,react,mongodb,postgres,git,github,docker,postman,vscode,visualstudio&theme=light" alt="Programming Languages"/>
 
@@ -89,11 +89,20 @@ I'm a **Computer Engineering student** passionate about software development, ar
 
 ## 🐍 Contribution Snake
 
-<div align="center"> <!-- GitHub Action: generate contribution snake --> <!-- Create .github/workflows/snake.yml with: name: Generate Snake on: schedule: - cron: "0 0 * * *" workflow_dispatch: jobs: generate: runs-on: ubuntu-latest steps: - uses: Platane/snk@v3 with: github_user_name: ElifRanaAkyol outputs: | dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg?palette=github-dark env: GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} - uses: crazy-max/ghaction-github-pages@v4 with: build_dir: dist env: GH_PAT: ${{ secrets.GITHUB_TOKEN }} BUILD_DIR: dist -->
+
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElifRanaAkyol/ElifRanaAkyol/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElifRanaAkyol/ElifRanaAkyol/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/ElifRanaAkyol/ElifRanaAkyol/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ElifRanaAkyol/ElifRanaAkyol/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ElifRanaAkyol/ElifRanaAkyol/output/github-contribution-grid-snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/ElifRanaAkyol/ElifRanaAkyol/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"/>
 </picture>
 
 </div>
