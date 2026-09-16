@@ -61,7 +61,7 @@ I'm a **Computer Engineering student** passionate about software development, ar
 
 <div align="center" style="width: 100%;">
 
-<img align="center" style="width: 100%;" src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,nodejs,dotnet,react,mongodb,postgres,git,github,docker,postman,vscode,visualstudio&theme=light" alt="Programming Languages"/>
+<img align="center" style="width: 100%;" src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,nodejs,dotnet,react,mongodb,postgres,git,github,docker,postman,vscode,visualstudio&theme=light&perline=16" alt="Programming Languages"/>
 
 </div>
 
