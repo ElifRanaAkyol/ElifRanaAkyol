@@ -50,12 +50,6 @@ I'm a **Computer Engineering student** passionate about software development, ar
 <td width="35%" align="center">
 <img src="art/lilranaplayingcomputer.jpeg" width="260" alt="Placeholder illustration"/>
 
-<br><br>
-<img src="https://img.shields.io/badge/Focus-Software%20Engineering-EF93C4?style=flat-square" alt="Focus"/>
-<br>
-<img src="https://img.shields.io/badge/Currently-Learning-FF69B4?style=flat-square" alt="Currently Learning"/>
-<br>
-<img src="https://img.shields.io/badge/Mindset-Always%20Learning-F8BBD0?style=flat-square" alt="Mindset"/>
 
 </td>
 </tr>
@@ -65,7 +59,7 @@ I'm a **Computer Engineering student** passionate about software development, ar
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div style align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,nodejs,dotnet,react,mongodb,postgres,git,github,docker,postman,vscode,visualstudio&theme=light" alt="Programming Languages"/>
 
@@ -125,7 +119,7 @@ I'm a **Computer Engineering student** passionate about software development, ar
 
 <br><br>
 
-### 💌 Let's build something meaningful together.
+
 
 </div>
 
@@ -133,6 +127,6 @@ I'm a **Computer Engineering student** passionate about software development, ar
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:EF93C4&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:EF93C4&height=140&section=footer&animation=twinkling&fontAlignY=70" width="100%" alt="Footer"/>
 
 </div>
