@@ -3,7 +3,7 @@
 <!-- 🌸 HERO BANNER -->
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/imrana.gif">
+   <source media="(prefers-color-scheme: dark)" srcset="art/imranagif.gif">
    <img alt="Logo for Your Banner Title" src="art/imranagif.gif">
 </picture>
 <br>
