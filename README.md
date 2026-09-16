@@ -33,7 +33,7 @@
 
 ---
 
-## <img src="art/stargithub.png" /> About Me
+## <img  src="art/stargithub.png" width="32" height="32" style="vertical-align: middle;" /> About Me
 
 <table align="center">
 <tr>
