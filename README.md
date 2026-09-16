@@ -4,7 +4,7 @@
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="art/imrana.gif">
-   <img alt="Logo for Your Banner Title" src="art/imrana.gif">
+   <img alt="Logo for Your Banner Title" src="art/imranagif.gif">
 </picture>
 <br>
 
