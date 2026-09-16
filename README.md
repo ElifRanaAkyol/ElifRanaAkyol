@@ -33,9 +33,9 @@
 
 ---
 
-## <img  src="art/pixel.png" width="38" height="38" style="vertical-align: middle;" /> About Me
+## <img  src="art/pixel.png" width="30" height="30" style="vertical-align: middle;" /> About Me
 
-<table align="center">
+<table  width="100%" align="center">
 <tr>
 <td width="65%" valign="middle">
 
