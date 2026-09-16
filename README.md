@@ -1,4 +1,4 @@
-<div align="center">
+<div width="100%" align="center">
 
 <!-- 🌸 HERO BANNER -->
 
