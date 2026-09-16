@@ -75,18 +75,7 @@ I'm a **Computer Engineering student** passionate about software development, ar
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ElifRanaAkyol&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElifRanaAkyol&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=777777&bg_color=00000000" alt="Top Languages"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=ElifRanaAkyol&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=999999" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElifRanaAkyol&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
