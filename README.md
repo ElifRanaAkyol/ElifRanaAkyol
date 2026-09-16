@@ -67,27 +67,7 @@ I'm a **Computer Engineering student** passionate about software development, ar
 
 <div align="center">
 
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c&theme=light" alt="Programming Languages"/>
-
-<br>
-
-### ⚙️ Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,react&theme=light" alt="Backend and Frameworks"/>
-
-<br>
-
-### 🗄️ Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,docker,postman&theme=light" alt="Databases and Tools"/>
-
-<br>
-
-### ☁️ Cloud & Development
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=light" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,nodejs,dotnet,react,mongodb,postgres,git,github,docker,postman,vscode,visualstudio&theme=light" alt="Programming Languages"/>
 
 </div>
 
