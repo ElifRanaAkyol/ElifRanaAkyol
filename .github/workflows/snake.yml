@@ -17,9 +17,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ElifRanaAkyol
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+         outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#FF69B4&color_dots=#FFF0F6,#FFD6E7,#FFB6D9,#FF85B8,#FF4F9A
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FF69B4&color_dots=#2B1822,#6B3048,#A94D72,#E86A9A,#FFB6D9
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
