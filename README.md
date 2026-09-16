@@ -33,15 +33,11 @@
 
 ---
 
-## <img  src="art/stargithub.png" width="32" height="32" style="vertical-align: middle;" /> About Me
+## <img  src="art/pixel.png" width="38" height="38" style="vertical-align: middle;" /> About Me
 
 <table align="center">
 <tr>
 <td width="65%" valign="middle">
-
-### Hi, I'm Rana! 💗
-
-I'm a **Computer Engineering student** passionate about software development, artificial intelligence, and building meaningful digital products.
 
 - 🎓 Studying **Computer Engineering**
 - 💻 Interested in **Backend Development & Software Architecture**
