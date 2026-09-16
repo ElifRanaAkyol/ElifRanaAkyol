@@ -8,9 +8,9 @@
 </picture>
 <br>
 
-# Hey there, I'm Rana 👋🏻
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Backend+%26+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Things+That+Matter+%E2%9C%A8" alt="Typing SVG"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student" alt="Typing SVG"/>
 
 <br>
 
@@ -42,15 +42,12 @@ I'm a **Computer Engineering student** passionate about software development, ar
 - 💻 Interested in **Backend Development & Software Architecture**
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
 - 🌱 Currently improving my **TypeScript, Node.js & system design** skills
-- 🧠 I enjoy understanding how systems work under the hood
-- 🚀 Always learning, building, and experimenting
-- ☕ Powered by curiosity and coffee
+- ☕ Powered by turkish coffee
 
 
 </td>
 
 <td width="35%" align="center">
-
 
 <img src="https://img.shields.io/badge/Focus-Software%20Engineering-EF93C4?style=flat-square" alt="Focus"/>
 <br>
@@ -72,23 +69,23 @@ I'm a **Computer Engineering student** passionate about software development, ar
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c&theme=light" alt="Programming Languages"/>
 
-<br><br>
+<br>
 
 ### ⚙️ Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,express,nestjs,react&theme=light" alt="Backend and Frameworks"/>
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,react&theme=light" alt="Backend and Frameworks"/>
 
-<br><br>
+<br>
 
 ### 🗄️ Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,docker,postman&theme=light" alt="Databases and Tools"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,docker,postman&theme=light" alt="Databases and Tools"/>
 
-<br><br>
+<br>
 
 ### ☁️ Cloud & Development
 
-<img src="https://skillicons.dev/icons?i=linux,vscode,visualstudio,figma,vercel&theme=light" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=light" alt="Development Tools"/>
 
 </div>
 
