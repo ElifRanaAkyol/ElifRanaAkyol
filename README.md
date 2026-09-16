@@ -1,10 +1,15 @@
-<div width="100%" align="center">
+<div  align="center">
 
 <!-- 🌸 HERO BANNER -->
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="art/imranagif.gif">
-   <img alt="Logo for Your Banner Title" src="art/imranagif.gif">
+   <img 
+      alt="Logo for Your Banner Title" 
+      src="art/imranagif.gif"
+      width="100%"
+      style="display: block;"
+      >
 </picture>
 <br>
 
