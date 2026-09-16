@@ -61,7 +61,7 @@ I'm a **Computer Engineering student** passionate about software development, ar
 
 <div align="center" style="width: 100%;">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,nodejs,dotnet,react,mongodb,postgres,git,github,docker,postman,vscode,visualstudio&theme=light" alt="Programming Languages"/>
+<img align="center" style="width: 100%;" src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,nodejs,dotnet,react,mongodb,postgres,git,github,docker,postman,vscode,visualstudio&theme=light" alt="Programming Languages"/>
 
 </div>
 
@@ -87,10 +87,6 @@ I'm a **Computer Engineering student** passionate about software development, ar
 
 ---
 
-## 🐍 Contribution Snake
-
-
-
 <div align="center">
 
 <picture>
@@ -109,7 +105,7 @@ I'm a **Computer Engineering student** passionate about software development, ar
 
 ---
 
-## 🌷 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -126,13 +122,9 @@ I'm a **Computer Engineering student** passionate about software development, ar
   <img src="https://img.shields.io/badge/Email-Contact-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br><br>
-
-
-
 </div>
 
----
+
 
 <div align="center">
 
