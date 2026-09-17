@@ -3,7 +3,7 @@
 
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/ranagif.gif">
+   <source media="(prefers-color-scheme: dark)" srcset="art/newgif.gif">
    <img 
       alt="Logo for Your Banner Title"  
       src="art/imranagif.gif"
